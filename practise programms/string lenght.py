@@ -1,0 +1,2 @@
+s='abcdefghijklmnopqrstuvwxyz'
+len(s)
