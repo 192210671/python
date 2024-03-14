@@ -11,5 +11,5 @@ if binary:
   oct_num=oct(dec_num)
   hex_num=hex(dec_num)
   print("DECIMAL=",dec_num)
-  print("OCTAL=",oct_num)
-  print("HEXADECIMAL=",hex_num)    
+  print("OCTAL=",oct_num[2:])
+  print("HEXADECIMAL=",hex_num[2])    
